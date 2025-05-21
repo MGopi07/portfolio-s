@@ -1,7 +1,7 @@
 /* Global Variables and Reset */
 :root {
-  --primary: #6c63ff;
-  /* --primary:#fc0200; */
+  /* --primary: #6c63ff; */
+  --primary:#007bff;
   --secondary: #4d44db;
   --dark: #2f2e41;
   --light: #f8f9fa;
@@ -13,7 +13,8 @@
   --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
   --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.1);
-  --gradient: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+  /* --gradient: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%); */
+  --gradient:linear-gradient(135deg, #007bff 0%, #007bff 100%);
 }
 
 * {
